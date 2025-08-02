@@ -1,0 +1,22 @@
+{
+  "name": "image-stretch-detector",
+  "version": "1.0.0",
+  "description": "A lightweight utility to detect visually stretched images on web pages.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "image",
+    "stretch",
+    "detector",
+    "aspect-ratio",
+    "visual-test"
+  ],
+  "author": "Waleed Murad",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
